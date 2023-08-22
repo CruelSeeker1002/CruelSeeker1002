@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CruelSeeker1002</h1>
+<h1 align="center">Hi 👋, I'm Rugved</h1>
 <h3 align="center">An aspiring student who wishes to major in CS</h3>
 
 - 📫 How to reach me **rugved.joshi06@gmail.com**
